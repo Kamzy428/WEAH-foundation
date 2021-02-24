@@ -1,0 +1,31 @@
+/* =======
+Author: Kenkarmah
+Github: https://github.com/kenkarmah 
+Social: @kenkarmah
+
+---I wrote a custom css for you to digest---
+======== */
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.my-section{
+    padding: 50px 0;
+}
+#banner{
+    background-image: url(../img/parallax1.jpg);
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#banner-2{
+    background-image: url(../img/parallax2.jpg);
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
